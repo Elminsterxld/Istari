@@ -1,2 +1,5 @@
 # Istari
-Çok Seksı Ve Alevli Müzik Botu
+
+#Distube modülü kullanılarak yapılmış basit bir bottur
+
+#Herhangi Bir Sorunda Yazanız!
